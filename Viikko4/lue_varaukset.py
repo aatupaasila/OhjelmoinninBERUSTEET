@@ -95,10 +95,10 @@ def main():
 
     print("5) Vahvistettujen varausten kokonaistulot")
     kokonaistulo = 0
-    hinta = varaus[7]
-    kesto = varaus[6]
     for varaus in varaukset[1:]:
         if varaus[8] == True:
+            hinta = varaus[7]
+            kesto = varaus[6]
             kokonaistulo = kokonaistulo + hinta * kesto
             
     print(f'Vahvistettujen varausten kokonaistulot: {kokonaistulo} €')
