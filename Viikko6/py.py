@@ -1,4 +1,4 @@
-# Copyright (c) 2025 Aatu Paasila
+# Copyright (c) 2025 Aatu "k1ssMyTurku" Paasila, Eeli "edi" Erkkilä
 # License: MIT
 
 from __future__ import annotations
