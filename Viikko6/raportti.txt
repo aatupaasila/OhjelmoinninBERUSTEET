@@ -1,0 +1,9 @@
+VUODEN 2025 KOKONAISYHTEENVETO
+--------------------------------------------------
+Kokonaiskulutus: 7396,84 kWh
+Kokonaistuotanto: 2922,38 kWh
+Nettokuorma (kulutus - tuotanto): 4474,46 kWh
+Keskilämpötila (tuntien keskiarvo): 7,83 °C
+--------------------------------------------------
+Suurin päiväkulutus: 12.1.2025 | 69,48 kWh | lämpö -9,10 °C
+Pienin päiväkulutus: 20.6.2025 | 1,65 kWh | lämpö 14,70 °C
